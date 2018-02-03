@@ -1,2 +1,2 @@
 # Erii-sprivaterep
-Private
+public
